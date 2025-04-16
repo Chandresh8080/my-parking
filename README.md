@@ -29,7 +29,7 @@ The Parking Management System is a web-based or mobile application designed to s
 ## Installation
 ```sh
 # Clone the repository
-git clone [https://github.com/Bhavin1214/My-Parking.git]
+git clone [https://github.com/Chandresh8080/MyParking.git]
 
 # Navigate to the project directory
 cd My-Parking
